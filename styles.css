@@ -1,20 +1,19 @@
 * {
-  margin: 0%;
-  padding: 0%;
+  margin: 0;
+  padding: 0;
 
 }
 .hero-section{
   display: flex;
   background-color: black;
   color: white;
-  height: 600px;
+  height: 100vh;
   align-items:center;
-  justify-content:center;
+  justify-content:space-between;
 }
 .hero-left{
   display: flex;
   flex-direction:column;
-  margin: 10px;
   
 }
 .hero-right{
@@ -25,8 +24,21 @@
 .profile-pic{
   place-items: center;
   width:100%;
-  height:auto;
   max-width:300px;
+  height:auto;
+ 
+}
+
+.intrest-box{
+  display: flex;
+  background-color: white;
+  height:100vh;
+}
+
+.intrest-card{
+  background-color: #ccc;
+  width:100px;
+  height:100px;
 }
 
 
