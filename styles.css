@@ -5,6 +5,7 @@
 }
 .hero-section{
   display: flex;
+  flex-wrap:wrap-reverse;
   background-color: black;
   color: white;
   height: 100vh;
