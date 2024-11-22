@@ -29,21 +29,5 @@
  
 }
 
-.intrest-box{
-  display: flex;
-  background-color: white;
-  height:100vh;
-  justify-content: center;
-  align-items: center;
-}
-
-.intrest-card{
-  background-color: #ccc;
-  width:200px;
-  height:200px;
-  border: solid;
-  border-color: black;
-  margin-right: 10px;
-}
 
 
