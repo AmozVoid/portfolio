@@ -1,0 +1,9 @@
+    <div class="intrest-section">
+      
+      <h2 class="intrest-box-heading">My Intrests</h2>
+      <div class="intrest-box">
+        <div class="intrest-card"></div>
+      <div class="intrest-card"></div>
+      <div class="intrest-card"></div>
+      </div>
+      
