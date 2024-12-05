@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    height:0;
+    box-sizing:border-box;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    
+    color: white;
+    background-color: black;
+    height: 10vh;
+}
+.games{
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: black;
+    height: 50vh;
+
+}
