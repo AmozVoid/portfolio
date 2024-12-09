@@ -7,8 +7,3 @@
       <div class="intrest-card"></div>
       </div>
       
-
-
-      to-do list 
-
-      hero-view 
